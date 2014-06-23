@@ -3,17 +3,30 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+#navb{
+	background-color:#ooo324
+	;
+}
 
 
 
+#slide1{
+	baground-image:url('../images/bg-1');
+}
 
 
+#screeshot{
+		
+	height:50px;
+
+}
 
 
-
-
-
-
+#resize{
+	height:200;
+	width:200;
+	
+}
 
 
 

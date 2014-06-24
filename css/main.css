@@ -3,33 +3,82 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-#navb{
-	background-color:#ooo324
-	;
-}
+   
+   /*screenshots used for resizing image */
+.screenshot{
+	width:150px;	
+	height:150px;
+    border-color:white;
+    border-width:3px;
+    border-style:solid;
+	}
+.screenshot0 
+{
+	width:200px;	
+	height:500px;
 
+	}	
+	
+	
+.screenshot1 
+{
+	width:400px;	
+	height:200px;
 
-
-#slide1{
-	baground-image:url('../images/bg-1');
-}
-
-
-#screeshot{
-		
+	}
+.screenshot2 
+{
+	width:50px;	
 	height:50px;
 
 }
-
-
-#resize{
-	height:200;
-	width:200;
-	
+	/* end of screen shot */
+.pad{
+	padding:30px;
 }
 
+#resize{
+	height:150px;
+	width:200px;	
+     }
+#resize1{
+	height:100px;
+	width:100px;
+	}
 
+#four {
+	background-color:green;
+	padding-top:5px
+	}
 
+/*sixth container styling */
+.six {
+	background-color:#34495E;
+	padding:30px;
+	}
+	
+/* end of sixth container*/
 
+/* background for footer*/	
+	.footer {
+	background-color:#2C3E50;
+	}
+	/* end */
+	
+/* css used for font styling  */
+.font
+{
+COLOR:#0CF22F;
+font-weight:bold;
+}
 
-
+.font1{
+	color:#7D7D7D;
+}
+.font2{
+	color:white;8
+}
+.font3{
+	color:000066
+}
+/* end of css  file*/
